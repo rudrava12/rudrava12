@@ -1,74 +1,58 @@
 <!-- ================= HEADER ================= -->
 
-<h1 align="center">Hi 👋, I'm Rudrava Tripathi</h1>
-<h3 align="center">🚀 AI Engineer | Flutter Developer | Computer Vision Enthusiast</h3>
+<h1 align="center">🚀 Rudrava Tripathi</h1>
+<h3 align="center">AI Engineer • Flutter Developer • Computer Vision Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%2B+Mobile+Apps+Builder;YOLO+%7C+TFLite+%7C+Flutter;Turning+Ideas+into+Real+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+%2B+Mobile+Apps;YOLO+%7C+TFLite+%7C+Flutter;Real+World+AI+Deployment;Building+Impactful+Systems" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=200&section=header"/>
 </p>
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
-* 🔭 Building **AI-powered mobile apps** with Flutter and Java (YOLO, TFLite, CV) 
-* 🤝 Open to collaborating on **AI/ML & Computer Vision projects**
-* 🚀 Focused on **real-world AI deployment & scalability**
-* 🌱 Learning **Advanced Deep Learning & System Design**
-* 💬 Ask me about **Flutter, YOLO, TFLite, ESP32-CAM**
-* ⚡ Fun fact: *I turn AI models into real working apps*
+I build **AI-powered applications that work in real-world environments**, not just experiments.
+
+* 📱 AI Mobile Apps (Flutter + TFLite + YOLO)
+* 🧠 Computer Vision & Edge AI
+* ⚡ Real-time inference systems
+* 🚀 From research → production
 
 ---
 
-## 🌐 Connect With Me
+# 🎯 Core Skills
+
+```text
+AI Engineering      ██████████████░░░░ 80%
+Flutter Development ███████████████░░ 85%
+Computer Vision     ███████████████░░ 85%
+Deep Learning       █████████████░░░░ 75%
+System Design       ███████████░░░░░░ 65%
+```
+
+---
+
+# ⚙️ Tech Stack
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rudrava-tripathi-742853267/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:rudravatripathi123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://instagram.com/rudrava_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,flutter,dart,tensorflow,pytorch,opencv,firebase,aws,git,java,cpp" />
 </p>
 
 ---
 
-## ⚙️ Tech Stack
+# 🏆 Achievements
 
 <p align="center">
-
-### 👨‍💻 Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,kotlin,dart" />
-
-### 🌐 Web & Mobile
-
-<img src="https://skillicons.dev/icons?i=html,css,flutter" />
-
-### ☁️ Cloud & Backend
-
-<img src="https://skillicons.dev/icons?i=aws,azure,firebase,gcp" />
-
-### 🧠 AI/ML
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-<br/>
-<img src="https://img.shields.io/badge/Keras-red?style=flat-square"/>
-<img src="https://img.shields.io/badge/ScikitLearn-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/OpenCV-blue?style=flat-square"/>
-
-### 🛠 Tools
-
-<img src="https://skillicons.dev/icons?i=git,postman,linux" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=rudrava12&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rudrava12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
@@ -81,32 +65,67 @@
 
 ---
 
-## 🧩 Featured Work
-
-🚀 AI-powered Java apps
-📷 Object Detection Mobile System
-📡 ESP32-CAM Live Streaming App
-🧠 TFLite Edge AI Deployment
-
----
-
-## ✍️ Dev Quote
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudrava12&theme=tokyonight" />
 </p>
 
 ---
 
-## 👀 Profile Views
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=rudrava12&icon=5&color=6"/>
+  <img src="https://raw.githubusercontent.com/rudrava12/rudrava12/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## ⚡ Final Touch
+# 🚀 Featured Projects
+
+### 🔥 Object Detection App
+
+Real-time object detection using Flutter + TFLite
+
+### 📡 ESP32-CAM Streaming App
+
+Live video streaming with mobile integration
+
+### 🧠 AI Image Classifier
+
+MobileNet-based classification system
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="[https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/rudrava-tripathi-742853267/)">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+  <a href="mailto:rudravatripathi123@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  </a>
+  <a href="https://instagram.com/rudrava_">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+  </a>
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rudrava12&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+# ⚡ Philosophy
+
+> “AI is not just about models — it's about solving real-world problems.”
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer"/>
